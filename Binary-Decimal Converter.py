@@ -46,7 +46,7 @@ main()
 
 ''' converts from bin to deci
 ----------------------------------------
-	Another Method (1):(Mine)
+	Another Method (1):
 	conv_num=0
 	n=len(num)
 	for x in num:
