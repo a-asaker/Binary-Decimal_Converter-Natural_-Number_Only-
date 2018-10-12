@@ -3,7 +3,7 @@
 
 def DecToBin():
 	num=input("\n Enter The Decimal Number : ")
-		return bin(int(num))[2:]
+	return bin(int(num))[2:]
 
 def BinToDec(num):
 	num=int(num,2)
